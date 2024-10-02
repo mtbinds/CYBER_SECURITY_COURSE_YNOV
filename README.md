@@ -6,7 +6,7 @@
 
 - [Théorie](./PART_00/THEORIE/)
   
-  - [Théorie fondamentale](./README.md)
+  - [Théorie fondamentale](./PART_00/THEORIE/00_NETWORKS_BASICS.md)
   - [Théorie détaillée](./PART_00/THEORIE/DETAILED_THEORY/NETWORKS_SLIDES.pdf)  
   
 - [Pratique](./PART_00/PRATIQUE/)
