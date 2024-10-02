@@ -12,6 +12,7 @@
 - [Pratique](./PART_00/PRATIQUE/)
 
   - [TP 00](./PART_00/PRATIQUE/TP_00.md)
+  - [TP 01](./PART_00/PRATIQUE/TP_01.md)
 
 Coming Soon (Cyber Security Sections)
 
