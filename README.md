@@ -15,6 +15,7 @@
   - [TP 01](./PART_00/PRATIQUE/TP_01.md)
   - [TP 02](./PART_00/PRATIQUE/TP_02.md)
   - [TP 03](./PART_00/PRATIQUE/TP_03.md)
+  - [TP 04](./PART_00/PRATIQUE/TP_04.md)
 
 Coming Soon (Cyber Security Sections)
 
