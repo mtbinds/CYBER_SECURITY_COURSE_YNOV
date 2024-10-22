@@ -278,14 +278,20 @@ Une diode réseau est un dispositif qui permet le transfert de données dans une
 
 ---
 
-## 3. Conclusion
+## Dépôt de TP
 
-### 3.1 Récapitulatif des Points Clés
+Veuillez déposer un fichier (.pdf) sur [ce lien](https://classroom.google.com/c/NzIwNDg4OTMyNTk4?cjc=ya2vfva), n'oubliez pas de mentionner votre prénom/nom.
+
+---
+
+## 4. Conclusion
+
+### 4.1 Récapitulatif des Points Clés
 
 - La sécurité des données est essentielle tout au long de leur cycle de vie, et inclut des mesures de sauvegarde, d'archivage, de chiffrement et de signature électronique.
 - Les fonctions de sécurité réseau, comme le SIEM et les diodes réseau, jouent un rôle crucial dans la détection et la prévention des menaces.
 
-### 3.2 Ressources Recommandées
+### 4.2 Ressources Recommandées
 
 - **Livres :**
   
