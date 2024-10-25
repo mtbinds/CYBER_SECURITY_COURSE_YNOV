@@ -15,7 +15,7 @@
   - [TP 01](./PART_00/PRATIQUE/TP_01.md)
   - [TP 02](./PART_00/PRATIQUE/TP_02.md)
   - [TP 03](./PART_00/PRATIQUE/TP_03.md)
-  - [TP 04](./PART_00/PRATIQUE/TP_04.md)
+  - [TP 04 : noté](./PART_00/PRATIQUE/TP_04.md)
   - [TP 05](./PART_00/PRATIQUE/TP_05.md)
 
 [Partie 01 : Quelques pratique de sécurité informatique](./PART_01/)
@@ -27,10 +27,11 @@
 
 - [Pratique](./PART_01/PRATIQUE/)
   
-  - [TP 00](./PART_01/PRATIQUE/TP_00.md) 
+  - [TP 00 : noté](./PART_01/PRATIQUE/TP_00.md) 
   - [TP 01](./PART_01/PRATIQUE/TP_01.md) 
-  - [TP 02](./PART_01/PRATIQUE/TP_02.md) 
-  - [TP 03](./PART_01/PRATIQUE/TP_03.md) 
+  - [TP 02 : noté](./PART_01/PRATIQUE/TP_02.md) 
+  - [TP 03 : noté](./PART_01/PRATIQUE/TP_03.md) 
   - [TP 04](./PART_01/PRATIQUE/TP_04.md) 
+  - [TP 05 : noté](./PART_01/PRATIQUE/TP_05.md)
 
-**Good Luck**
+**Good Luck !**
