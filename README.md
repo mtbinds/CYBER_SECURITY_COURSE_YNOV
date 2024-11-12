@@ -34,5 +34,6 @@
   - [TP 04](./PART_01/PRATIQUE/TP_04.md) 
   - [TP 05 : noté](./PART_01/PRATIQUE/TP_05.md)
   - [TP 06](./PART_01/PRATIQUE/TP_06.md)
+  - [TP 07](./PART_01/PRATIQUE/TP_07.md)
 
 **Good Luck !**
